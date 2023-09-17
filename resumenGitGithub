@@ -9,3 +9,10 @@ git commit -m "leyenda...." paso los archivos al repositorio local
 git branch -M main
 git remote add origin https://github.com/LilianaScussel/clasegit23536.git
 git push -u origin main
+
+
+**************************
+lscussel@fibertel.com.ar
+LilianaScussel
+Gitliliana23
+**************************
