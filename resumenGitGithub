@@ -1,0 +1,6 @@
+git config.........
+
+Git init(para inicializar git)
+git status (para ver el estado de los archivos)
+git add . (pasar los archivos del working directory a staging area)
+git commit -m "leyenda...." paso los archivos al repositorio local
